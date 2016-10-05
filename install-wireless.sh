@@ -12,4 +12,7 @@ apt-get update
 
 apt-get install firmware-ralink
 
+# 0c:00.0 Network controller: Broadcom Corporation BCM4312 802.11b/g LP-PHY (rev 01)
+apt-get install firmware-b43-installer
+
 apt-get update 
